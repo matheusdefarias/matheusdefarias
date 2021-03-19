@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ## Hey! Matheus de Farias Cavalcanti Santos here! 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdefariascs/)](https://www.linkedin.com/in/matheusdefariascs/)
