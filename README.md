@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdefariascs/)](https://www.linkedin.com/in/matheusdefariascs/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdefarias&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdefarias&langs_count=8&theme=dark)](https://github.com/matheusdefarias/github-readme-stats)
