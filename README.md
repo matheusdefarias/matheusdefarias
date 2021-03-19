@@ -22,5 +22,14 @@ Here are some ideas to get you started:
 
 ### Programming Languages:
 
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="C" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/c-2975-logo-png-transparent.png" />
+<img align="left" alt="Cplusplus" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<br />
+<br />
+
+### Deep Learning | Computer Vision - Frameworks and Libraries:
+
+<a href="https://opencv.org/"><img align="left" alt="OpenCV" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" /></a>
+<img align="left" alt="Pytorch" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 
