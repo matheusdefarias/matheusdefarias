@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdefariascs/)](https://www.linkedin.com/in/matheusdefariascs/)
 
 ### :computer: Programming Languages:
-  * C, C++, Python, Javascript
-
+  - C, C++, Python, Javascript
 <br />
-
 ### :computer: Frameworks and Libraries:
   - Digital Image Processing: OpenCV, Pillow, Scikit-Image
   - Machine Learning: Scikit-Learn
