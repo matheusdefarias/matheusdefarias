@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 ### :pushpin: Operational Systems
   - Microsoft Windows and Linux(Ubuntu)
 
-### Hobbies
-  - **Photography:** https://500px.com/p/matheusdefariascs?view=photos
-  - **3D Modeling:** https://www.artstation.com/matheusfcs
+### :camping: Hobbies
+  - :camera: [Photography](https://500px.com/p/matheusdefariascs?view=photos)
+  - :ice_cube: [3D Modeling](https://www.artstation.com/matheusfcs)
