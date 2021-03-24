@@ -20,24 +20,8 @@ Here are some ideas to get you started:
   - C, C++, Python, HTML, CSS, Javascript
 
 ### :computer: Frameworks and Libraries:
-  - Digital Image Processing: OpenCV, Pillow, Scikit-Image
-  - Machine Learning: Scikit-Learn
-  - Computer Vision/Deep Learning: Pytorch
-  - Web Development: 
-    - Backend: Django, Django REST
-
-<br />
-<br />
-
-### Deep Learning | Computer Vision - Frameworks and Libraries:
-
-<a href="https://opencv.org/" target="_blank"><img align="left" alt="OpenCV" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" /></a>
-<a href="https://pytorch.org/" target="_blank"><img align="left" alt="Pytorch" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" /></a>
-<br />
-<br />
-
-### Web Development - Frameworks and Libraries:
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5" target="_blank"><img align="left" alt="HTML5" width="36px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" width="32px" src="https://ethancordes.com/assets/tech_icons/CSS3.svg" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="72px" height="32px" height="32px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" /></a>
-<a href="https://www.django-rest-framework.org/" target="_blank"><img align="left" alt="Django-Rest" width="72px" height="32px" src="https://miro.medium.com/max/497/1*mn2h7oJ8yMHBcmsNSbCIbA.png" /></a>
+  - **Digital Image Processing:** OpenCV, Pillow, Scikit-Image
+  - **Machine Learning:** Scikit-Learn
+  - **Computer Vision/Deep Learning:** Pytorch
+  - **Web Development:** 
+    - **Backend:** Django, Django REST
