@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 ## Hey! Matheus de Farias Cavalcanti Santos here! 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdefariascs/)](https://www.linkedin.com/in/matheusdefariascs/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdefarias&show_icons=true&theme=light)
+### :computer: Programming Languages:
+  * C, C++, Python, Javascript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdefarias&langs_count=8&theme=light)](https://github.com/matheusdefarias/github-readme-stats)
+<br />
 
-### Programming Languages:
+### :computer: Frameworks and Libraries:
+  - Digital Image Processing: OpenCV, Pillow, Scikit-Image
+  - Machine Learning: Scikit-Learn
+  - Computer Vision/Deep Learning: Pytorch
 
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank"><img align="left" alt="C" width="32px" src="https://cdn.freebiesupply.com/logos/large/2x/c-2975-logo-png-transparent.png" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="Cplusplus" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <br />
 <br />
 
