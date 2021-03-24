@@ -25,3 +25,6 @@ Here are some ideas to get you started:
   - **Computer Vision/Deep Learning:** Pytorch
   - **Web Development:** 
     - **Backend:** Django, Django REST
+
+### :pushpin: Operational Systems
+  - Microsoft Windows and Linux(Ubuntu)
