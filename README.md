@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ### :computer: Programming Languages:
   - C, C++, Python, Javascript
 
-<br />
-
 ### :computer: Frameworks and Libraries:
   - Digital Image Processing: OpenCV, Pillow, Scikit-Image
   - Machine Learning: Scikit-Learn
