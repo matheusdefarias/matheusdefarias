@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdefariascs/)](https://www.linkedin.com/in/matheusdefariascs/)
 
 ### 💬 About me:
-I have a degree in Computer Engineering from the Federal University of Pernambuco/Informatics Center - UFPE/CIn. I work in both Research and Software Development fields with focus on Digital Image Processing, Deep Learning and Computer Vision. In addition, I am very interested in the areas of Web Development, Information Security and Computer Graphics (3D Modeling).
+I have a degree in Computer Engineering from the Federal University of Pernambuco/Informatics Center - UFPE/CIn. I work in both Researching and Software Engineering fields with focus on **Digital Image Processing, Deep Learning and Computer Vision**. In addition, I am very interested in the areas of **Web Development, Information Security and Computer Graphics (3D Modeling)**.
 
 ### :computer: Programming Languages:
   - C, C++, Python, HTML, CSS, Javascript
