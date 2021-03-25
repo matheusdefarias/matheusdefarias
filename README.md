@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I have a degree in Computer Engineering from the Federal University of Pernambuco/Informatics Center - UFPE/CIn. I work in both Researching and Software Engineering fields with focus on **Digital Image Processing, Deep Learning and Computer Vision**. In addition, I am very interested in the areas of **Web Development, Information Security and Computer Graphics (3D Modeling)**.
 
 ### :computer: Programming Languages:
-  - C, C++, Python, HTML, CSS, Javascript
+  - C, C++, Python
 
 ### :gear: Frameworks and Libraries:
   - **Digital Image Processing:** OpenCV, Pillow, Scikit-Image
