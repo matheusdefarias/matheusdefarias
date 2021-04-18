@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## Hey! Matheus de Farias Cavalcanti Santos here! 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=matheusdefarias.matheusdefarias)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusdefariascs/)](https://www.linkedin.com/in/matheusdefariascs/)
 
 ### 💬 About me:
