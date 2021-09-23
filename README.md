@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi! Matheus Santos here!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="max-width: 100%;"></h1>
 
 <h2>:pouting_man: About me:</h2>
-<p align="justify">I have a degree in Computer Engineering from the <a href="https://www.ufpe.br/" target="_blank">Federal University of Pernambuco</a>/<a href="https://portal.cin.ufpe.br/" target="_blank">Informatics Center</a> - UFPE/CIn. I work in both Researching and Software Engineering fields with focus on <strong><i>Digital Image Processing, Deep Learning and Computer Vision</i></strong>. In addition, I am very interested in <strong><i>Web Development, Information Security and Computer Graphics (3D Modeling)</i></strong>.</p>
-
+<p align="justify">I have a degree in Computer Engineering from the <a href="https://www.ufpe.br/" target="_blank">Federal University of Pernambuco</a>/<a href="https://portal.cin.ufpe.br/" target="_blank">Informatics Center</a> - UFPE/CIn. I work in both Researching and Software Engineering fields with focus on <strong><i>Digital Image Processing, Deep Learning and Computer Vision</i></strong>. In addition, I am very interested in <strong><i>Web Development, Information Security and Computer Graphics (3D Modeling)</i></strong>.<div><a href="https://www.linkedin.com/in/matheusdefariascs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div></p>
 <p>💬 Ask me about: <strong><i>Digital Image Processing, Computer Vision and Deep Learning</i></strong></p>
 
 <h2>:computer: Programming Languages:</h2>
@@ -47,10 +46,6 @@ Here are some ideas to get you started:
 <h2>:rocket: Improving:</h2>
 <p>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-</p>
-<h3>:globe_with_meridians: Connect with me:</h3> 
-<p>
-  <a href="https://www.linkedin.com/in/matheusdefariascs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 <h2>:camping: Hobbies:</h2>
 <ul>
