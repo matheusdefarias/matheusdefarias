@@ -21,30 +21,30 @@ Here are some ideas to get you started:
     - **Backend:** Django, Django REST
 -->
 
-<h2 align="center">Hi! Matheus Santos here!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="max-width: 100%;"></h2>
+<h1 align="center">Hi! Matheus Santos here!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" style="max-width: 100%;"></h1>
 
 <h3>:pouting_man: About me:</h3>
 <p align="justify">I have a degree in Computer Engineering from the <a href="https://www.ufpe.br/" target="_blank">Federal University of Pernambuco</a>/<a href="https://portal.cin.ufpe.br/" target="_blank">Informatics Center</a> - UFPE/CIn. I work in both Researching and Software Engineering fields with focus on <strong><i>Digital Image Processing, Deep Learning and Computer Vision. In addition, I am very interested in Web Development, Information Security and Computer Graphics (3D Modeling)</i></strong>.</p>
 
 <p>💬 Ask me about: <strong><i>Digital Image Processing, Computer Vision and Deep Learning</i></strong></p>
 
-<h3>:computer: Programming Languages:</h3>
+<h2>:computer: Programming Languages:</h2>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-<h3>:gear: Frameworks and Libraries:</h3>
+<h2>:gear: Frameworks and Libraries:</h2>
 <p>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 </p>
-<h3>:pushpin: Operational Systems:</h3>
+<h2>:pushpin: Operational Systems:</h2>
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
-<h3>:closed_book: Learning:</h3>
+<h2>:closed_book: Learning:</h2>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
-<h3>:rocket: Improving:</h3>
+<h2>:rocket: Improving:</h2>
 <p>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
 </p>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <p>
   <a href="https://www.linkedin.com/in/matheusdefariascs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
-<h3>:camping: Hobbies:</h3>
+<h2>:camping: Hobbies:</h2>
 <ul>
   <li>:camera: <a href="https://500px.com/p/matheusdefariascs?view=photos" target="_blank">Photography</a></li>
   <li>:art: <a href="https://www.artstation.com/matheusfcs" target="_blank">3D Modeling</a></li>
