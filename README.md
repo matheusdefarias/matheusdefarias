@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## :pushpin: Operational Systems:
   - Microsoft Windows and Linux(Ubuntu)
 ## :closed_book: Learning:
-- HTML/CSS, Javascript, Angular and C#
+- HTML/CSS, Javascript, Angular, C# and 3D modeling
 ## :rocket: Improving:
 - Digital Image Processing and OpenCV
 ### :camping: Hobbies
