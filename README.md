@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Matheus de Farias Cavalcanti Santos</h1>
 <h3 align="center">Software Engineer | Front-end | HTML | CSS | Javascript | React.Js |</h3>
 
-<h2>:pouting_man: About me:</h2>
+## About me:
 <p align="justify">I have a degree in Computer Engineering from the <a href="https://www.ufpe.br/" target="_blank">Federal University of Pernambuco</a>/<a href="https://portal.cin.ufpe.br/" target="_blank">Informatics Center</a> - UFPE/CIn. During the undergraduate program, I specialized in the areas of Digital Image Processing, Computer Vision and Deep Learning using libraries such as OpenCV and PyTorch. I have 5 years of professional experience in the areas of Digital Image Processing, Computer Vision, Deep Learning and in Back-end Web Development using Python and Django REST Framework.</p>
 
 <p>I've always really liked visual/graphic elements and after working on Web Development projects, I became very interested in the area, mainly in interface development. So, currently I have been interested and focused on <strong><i>Front-end Web Development</i></strong> using the following technologies: <strong><i>HTML, CSS, Javascript and ReactJs.</i></strong></p>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br >
 <p>💬 Ask me about: <strong><i>Front-end Web Development</i></strong></p>
 
-## :computer: Programming Languages:
+## Programming Languages:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-## :gear: Web Development Frameworks and Libraries:
+## Web Development Frameworks and Libraries:
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   - Microsoft Windows and Linux(Ubuntu)
 -->
 
-## :closed_book: Learning:
+## Learning:
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-## :heavy_plus_sign: Additional knowledge:
+## Additional knowledge:
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 - Digital Image Processing and OpenCV
 -->
 
-### :camping: Hobbies
+## Hobbies
   - :camera: [Photography](https://500px.com/p/matheusdefariascs?view=photos)
   - :art: [3D Modeling](https://www.artstation.com/matheusfcs)
     
