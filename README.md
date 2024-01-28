@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Matheus de Farias Cavalcanti Santos</h1>
-<h3 align="center"> Front-end / Full Stack Developer</h3>
+<h3 align="center"> Front-End / Full Stack Developer</h3>
 
 ## About me:
 <p align="justify">I have a degree in Computer Engineering from the <a href="https://www.ufpe.br/" target="_blank">Federal University of Pernambuco</a>/<a href="https://portal.cin.ufpe.br/" target="_blank">Informatics Center</a> - UFPE/CIn. During the undergraduate program, I specialized in the areas of Digital Image Processing, Computer Vision and Deep Learning using libraries such as OpenCV and PyTorch. I have 5 years of professional experience in the areas of Digital Image Processing, Computer Vision, Deep Learning and in Back-end Web Development using Python and Django REST Framework.</p>
